@@ -22,4 +22,4 @@ Implementation of a Bayesian Optimization algorithm that performs hyperparameter
 Implementation of a Deep Reinforcement Learning algorithm able to learn a control policy for a lander (spaceship), by practicing on a simulator. The project required the use of Actor-Critic methods with policy gradients, in particular Rewards-to-go and Generalized Advantage Estimatation methods, both aiming at decreasing the variance of the policy gradient estimates.
 
 Video example:
-https://github.com/ivanalberico/probabilisticAI_projects/blob/main/Project 4 - Deep Reinforcement Learning/policy.mp4
+https://github.com/ivanalberico/probabilisticAI_projects/blob/main/images/policy.mp4
