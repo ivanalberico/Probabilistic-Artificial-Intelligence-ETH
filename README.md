@@ -8,7 +8,7 @@ Implementation of a Gaussian Process regression applied on a real world inferenc
 
 ## Predicting uncertainty with Bayesian Neural Networks on MNIST dataset
 <img align="right" height="160" src="https://github.com/ivanalberico/probabilisticAI_projects/blob/main/images/BayesianNeuralNetwork.png"></img>
-Implementation of a Bayesian Neural Network, trained and tested on the Rotated MNIST and Fashion MNIST datasets.
+Implementation of a Bayesian Neural Network, trained and tested on the Rotated MNIST and Fashion MNIST datasets, for class prediction with uncertainty. The training process minimizes a loss function which considers both a Cross-Entropy loss and a Kullback–Leibler divergence loss term.
 <br/><br/>  
 <br/><br/>  
 
